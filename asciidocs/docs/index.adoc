@@ -2,9 +2,11 @@
 Mark Grünzweil | {docdate}
 ifndef::imagesdir[:imagesdir: images]
 
-== Projekttitel
+== Budget-Tracker
 
 === Projektbeschreibung
+
+Die Verwaltung persönlicher Finanzen kann oft eine Herausforderung sein, insbesondere wenn es darum geht, den Überblick über alle Ausgaben zu behalten. Hier hilft der Budget-Tracker, eine Anwendung, die es Benutzern ermöglicht, ihre finanziellen Ausgaben effizient zu verwalten und zu kontrollieren. Nutzer können ihre Einnahmen und Ausgaben einfach eingeben und in verschiedene Kategorien wie Lebensmittel, Miete oder Freizeit unterteilen. Die Anwendung bietet eine visuelle Aufbereitung der Daten in Form von Diagrammen, die einen klaren Überblick über die finanziellen Trends ermöglichen. Zusätzlich haben Nutzer die Möglichkeit, Sparziele festzulegen und ihre Fortschritte dabei zu verfolgen. Durch die übersichtliche Darstellung der Ausgaben und die Kategorisierung wird das Finanzmanagement vereinfacht. 
 
 === Projektziele
 
