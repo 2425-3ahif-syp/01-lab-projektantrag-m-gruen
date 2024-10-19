@@ -1,6 +1,13 @@
-= Index page
+= Projektantrag
+Mark Grünzweil | {docdate}
 ifndef::imagesdir[:imagesdir: images]
 
-image::img.png[]
+== Projekttitel
 
-== Mark Grünzweil
+=== Projektbeschreibung
+
+=== Projektziele
+
+=== Projektnutzen
+
+=== Konsequenzen der Nichtdurchführung
