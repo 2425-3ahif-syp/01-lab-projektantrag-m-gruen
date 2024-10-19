@@ -10,6 +10,15 @@ Die Verwaltung persönlicher Finanzen kann oft eine Herausforderung sein, insbes
 
 === Projektziele
 
+- Entwicklung einer benutzerfreundlichen Anwendung zur Verwaltung persönlicher Finanzen
+- Vereinfachung der Eingabeprozesse für Einnahmen und Ausgaben
+- Einführung von Funktionen zur Kategorisierung der Ausgaben in verschiedenen Bereichen
+- Bereitstellung einer Übersicht zur Visualisierung von Ausgaben und Einnahmen in Form von Diagrammen
+- Unterstützung der Nutzer durch die Möglichkeit, individuelle Sparziele zu setzen
+- Schaffung eines effizienten Finanzmanagementsystems
+- Erhöhung der finanziellen Transparenz und Kontrolle für die Nutzer
+- Förderung eines bewussten Umgangs mit Geld
+
 === Projektnutzen
 
 === Konsequenzen der Nichtdurchführung
