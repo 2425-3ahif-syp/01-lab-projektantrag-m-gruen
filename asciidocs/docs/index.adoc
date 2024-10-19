@@ -11,14 +11,26 @@ Die Verwaltung persönlicher Finanzen kann oft eine Herausforderung sein, insbes
 === Projektziele
 
 - Entwicklung einer benutzerfreundlichen Anwendung zur Verwaltung persönlicher Finanzen
-- Vereinfachung der Eingabeprozesse für Einnahmen und Ausgaben
-- Einführung von Funktionen zur Kategorisierung der Ausgaben in verschiedenen Bereichen
-- Bereitstellung einer Übersicht zur Visualisierung von Ausgaben und Einnahmen in Form von Diagrammen
-- Unterstützung der Nutzer durch die Möglichkeit, individuelle Sparziele zu setzen
-- Schaffung eines effizienten Finanzmanagementsystems
-- Erhöhung der finanziellen Transparenz und Kontrolle für die Nutzer
-- Förderung eines bewussten Umgangs mit Geld
+- Vereinfachung der Eingabeprozesse für Einnahmen und Ausgaben, um die Benutzererfahrung zu verbessern
+- Einführung von Funktionen zur Kategorisierung der Ausgaben in verschiedenen Bereichen, die eine gezielte Analyse ermöglichen
+- Bereitstellung einer Übersicht zur Visualisierung von Ausgaben und Einnahmen in Form von Diagrammen, um Trends leichter zu erkennen
+- Unterstützung der Nutzer durch die Möglichkeit, individuelle Sparziele zu setzen, um finanzielle Ziele aktiv zu verfolgen
+- Schaffung eines effizienten Finanzmanagementsystems, das langfristige Planung unterstützt
+- Erhöhung der finanziellen Transparenz und Kontrolle für die Nutzer, um informierte Entscheidungen zu treffen
+- Förderung eines bewussten Umgangs mit Geld durch gezielte Funktionen und Informationen
 
 === Projektnutzen
+
+Die Nutzung des Budget-Trackers bietet zahlreiche Vorteile:
+
+- Verbesserung der Kontrolle über persönliche Finanzen, indem Nutzer sofort auf ihre Daten zugreifen können
+- Effiziente Nachverfolgung und Kategorisierung von Ausgaben, was eine gezielte Analyse ermöglicht
+- Klarere Einsicht in finanzielle Trends durch visuelle Diagramme, die das Verständnis erleichtern
+- Motivation durch individuelle Sparziele, die die Nutzer anregen, ihre Finanzen aktiv zu gestalten
+- Zeitersparnis bei der Finanzverwaltung, da manuelle Berechnungen und das Erstellen von Tabellen entfallen
+- Höhere finanzielle Transparenz, die das Vertrauen in die eigene Finanzplanung stärkt
+- Förderung von finanzieller Sicherheit und Schuldenvermeidung durch ein besseres Finanzmanagement
+
+Insgesamt trägt der Budget-Tracker dazu bei, die finanzielle Situation der Nutzer zu verbessern und ein besseres Budgetmanagement zu fördern. Nutzer werden ermutigt, bewusster mit ihren Ausgaben umzugehen und ihre Sparziele aktiv zu verfolgen.
 
 === Konsequenzen der Nichtdurchführung
